@@ -1,0 +1,5 @@
+latte 800
+americano 700
+cappuccino 900
+black-tea 250
+green-tea 300
