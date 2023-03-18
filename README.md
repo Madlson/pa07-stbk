@@ -1,0 +1,1 @@
+Please open [`INSTRUCTIONS.md`](INSTRUCTIONS.md) file.
